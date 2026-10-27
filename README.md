@@ -1,52 +1,59 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:27.10.26
+## Reference Number:26016907
+## Name: Nandhini S
 
 ## Problem Title
-SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
+RescueRoute – Smart Emergency Guidance for Faster Help
 
 ## Problem Creater's Organization
-Ministry of Consumer Affairs, Food & Public Distribution
+Ministry of Health and Family Welfare, Government of India (suggested relevant organization; verify the official problem statement before submission)
 
 ## Theme
-Agriculture, FoodTech & Rural Development
+Smart Automation, Healthcare, Public Safety and Social Impact
 
 ## Problem Description
-Expected Solution: Create a digital marketplace that:
-
-• Connects farmers/FPOs directly with consumers and bulk buyers.
-• Provides logistics support.
-• Uses AI for demand forecasting and route optimization.
-
-Benefits:
-
-• Better prices for farmers.
-• Lower prices for consumers.
-• Reduced supply chain inefficiencies.
+During emergencies such as road accidents, medical emergencies, and natural disasters, people often struggle to get help quickly. They may not know whom to contact, which hospital is nearby, or how to explain their exact location. Delays in communication can make the situation more difficult, especially in unfamiliar places or areas with limited resources.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1. Develop a smart system to provide quick emergency assistance.
+2. Use GPS to share the user's location with trusted contacts.
+3. Show nearby hospitals, ambulances, and police stations.
+4. Provide one-touch emergency calling.
+5. Offer basic first-aid guidance until help arrives.
+6. Support Tamil, English, and other regional languages.
+7. Protect users' personal information and location privacy.
+8. Reduce emergency response delays and improve public safety.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Use GPS to identify the user's location.
+2.Use map data to identify nearby hospitals and emergency services.
+3.Provide quick access to verified emergency contact numbers.
+4.Use a simple decision system to provide basic, safety-approved emergency guidance.
+5.Support Tamil, English, and other regional languages.
+6.Protect personal information and share location only with the user's permission.
+
+## Figure 1: Circuit Diagram of the Emergency Alert System Prototype
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d353c52f-51b2-418f-a210-59fbf670c8d3" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The first version can be developed using existing GPS, mapping tools, and publicly available emergency contact information. A small prototype can be tested with sample locations and simulated emergency scenarios.
+
+The solution could later be improved through collaboration with hospitals, ambulance services, and local authorities. Reliable location data, network availability, and verification of emergency information would need to be considered.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1.Helps people find emergency assistance more easily.
+2.Reduces confusion during stressful situations.
+3.Makes emergency information accessible in regional languages.
+4.Supports people in unfamiliar locations.
+5,Encourages faster communication with appropriate emergency services.
+
+
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+Government of India Emergency Response Support System (ERSS) – 112 India.
+Ministry of Health and Family Welfare, Government of India.
+Official public information on GPS and digital mapping services.
+Research papers on emergency response systems, location-based services, and disaster management.
+
